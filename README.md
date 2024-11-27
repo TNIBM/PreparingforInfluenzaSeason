@@ -38,3 +38,9 @@
  medium-, or high-need based on its vulnerable population count.
  
  ● Assessdatalimitations that may prevent you from conducting your desired analyses.
+
+ ## Tableau Dashboard
+Click [here](https://public.tableau.com/app/profile/tamer.nas1925/viz/Ex2_9InfluenzaShield/InfluenzaShield) To visit the Tableau Visualizations.
+
+## Youtube Presentation
+Click [here](https://youtu.be/N_D8C8OBGJA) To visit the Online Presentation.
