@@ -1,4 +1,4 @@
-# Preparing-for-Influenza-Season
+# Preparing for Influenza Season
 
 ## Goal
  To help a medical staffing agency that provides temporary workers to clinics
