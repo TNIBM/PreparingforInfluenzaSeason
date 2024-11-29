@@ -8,36 +8,40 @@
  staffing needs across the country.
  
  ## Business Requirements
- As ananalyst, you need technical skills to analyze your data and soft skills to communicate your
- insights to stakeholders. You’ll start by distilling business requirements and requests into questions
- you can answer with an analysis. You’ll follow up by sourcing and curating the data to address these
- questions. After analyzing the data and drawing conclusions or formulating recommendations from
- your results, you’ll present your insights to stakeholders in an easily consumable format.
+ An analyst requires a combination of technical skills to analyze data effectively and soft skills to communicate insights to stakeholders. 
+ 
+ The process begins with distilling business requirements and requests into well-defined questions that can be addressed through analysis.
+ 
+ The analyst is responsible for sourcing and curating the necessary data to answer these questions. Once the data is prepared, they conduct the analysis, draw conclusions, and formulate recommendations based on 
+ the results.
+ 
+ Finally, the analyst presents these insights to stakeholders in a clear, concise, and easily consumable format, ensuring the findings are actionable and aligned with business needs.
  
  ##  Project Overview
  
- ● Motivation: TheUnitedStates has an influenza season where more people than usual
+ ● Motivation: The  United States has an influenza season where more people than usual
  suffer from the flu. Some people, particularly those in vulnerable populations, develop serious
  complications and end up in the hospital. Hospitals and clinics need additional staff to
  adequately treat these extra patients. The medical staffing agency provides this temporary
  staff.
  
- ● Objective: Determinewhentosendstaff, and how many, to each state.
+ ● Objective: Determine when to send staff, and how many, to each state.
  
- ● Scope:Theagencycoversallhospitals in each of the 50 states of the United States, and
+ ● Scope: The agency covers all hospitals in each of the 50 states of the United States, and
  the project will plan for the upcoming influenza season.
 
  ## Requirements
- ● Provideinformation to support a staffing plan, detailing what data can help inform the timing
+ 
+ ● Providing information to support a staffing plan, detailing what data can help inform the timing
  and spatial distribution of medical personnel throughout the United States.
  
- ● Determinewhether influenza occurs seasonally or throughout the entire year. If seasonal,
+ ● Determining whether influenza occurs seasonally or throughout the entire year. If seasonal,
  does it start and end at the same time (month) in every state?
  
- ● Prioritize states with large vulnerable populations. Consider categorizing each state as low-,
+ ● Prioritizing states with large vulnerable populations. Consider categorizing each state as low-,
  medium-, or high-need based on its vulnerable population count.
  
- ● Assessdatalimitations that may prevent you from conducting your desired analyses.
+ ● Assessing data limitations that may prevent you from conducting your desired analyses.
 
  ## Tableau Dashboard
 Click [here](https://public.tableau.com/app/profile/tamer.nas1925/viz/Ex2_9InfluenzaShield/InfluenzaShield) To visit the Tableau Visualizations.
