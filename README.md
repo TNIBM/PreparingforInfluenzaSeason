@@ -48,3 +48,6 @@ Click [here](https://public.tableau.com/app/profile/tamer.nas1925/viz/Ex2_9Influ
 
 ## Youtube Presentation
 Click [here](https://youtu.be/N_D8C8OBGJA) To visit the Online Presentation.
+
+## Portfolio Presentation
+Click [here](https://drive.google.com/file/d/1fDsEiAiiqeFrXyQWQNRri8zgKPWPs-SE/view?usp=drive_link)
